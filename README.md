@@ -2,6 +2,7 @@
 Automate the local movie rental store 's inventory tracking system. 
 
 Description:
+
 A local movie rental store wishes to automate their inventory tracking system. Currently there are three types of movies/videos (in DVD media) to be tracked:
 -	Comedy (denoted as ‘F’ for funny)
 -	Drama (denoted as ‘D’)
@@ -15,6 +16,7 @@ Borrows and returns of items by customers are also to be tracked. Four types of 
 I will design and implement a program that will initialize the contents of the inventory from a file (data4movies.txt), the customer list from another file (data4customers.txt), and then process an arbitrary sequence of commands from a third file (data4commands.txt).
 
 Details:
+
 In data4movies.txt, the information about each movie is listed as follows: 
 -	For comedy movies: F, Stock, Director, Title, Year it released 
 -	For drama movies: D, Stock, Director, Title, Year it released
